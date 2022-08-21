@@ -1,9 +1,5 @@
 [
    {
-      "name":"Chaine Youtube",
-      "url":"https://www.youtube.com/channel/UCpvRyQx6o2Jum0a2z2DNC7w"
-   },
-   {
       "name":"Dépôt 3D",
       "url":"https://cults3d.com/fr/utilisateurs/bibibricodeur/créations"
    },   
@@ -13,6 +9,10 @@
    },
    {
       "name":"Portfolio",
-      "url":"https://thierrycharriot.netlify.app"
-   }    
+      "url":"https://thierrycharriot.github.io/"
+   }, 
+   {
+      "name":"Youtube",
+      "url":"https://www.youtube.com/channel/UCpvRyQx6o2Jum0a2z2DNC7w"
+   },   
 ]
